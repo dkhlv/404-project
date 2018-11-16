@@ -1,6 +1,7 @@
 # Searchable encryption based on fuzzy matching
 
-This project demonstrates searchable encryption method based on fuzzy keyword search
+This project demonstrates searchable encryption method based on fuzzy keyword search. 
+
 Workflow is based on 2010 paper "Fuzzy Keyword Search over Encrypted Data in Cloud Computing" by Jin Li et al. Paper can be found here: https://ieeexplore.ieee.org/document/5462196
 
 
